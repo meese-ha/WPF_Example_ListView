@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Example_ListView", "WPF_Example_ListView\WPF_Example_ListView.csproj", "{55238C75-C0EF-4DAE-B765-F8F96573DE4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55238C75-C0EF-4DAE-B765-F8F96573DE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55238C75-C0EF-4DAE-B765-F8F96573DE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55238C75-C0EF-4DAE-B765-F8F96573DE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55238C75-C0EF-4DAE-B765-F8F96573DE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99714945-571E-4206-B0CD-918740440037}
+	EndGlobalSection
+EndGlobal
